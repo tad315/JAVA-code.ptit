@@ -14,5 +14,6 @@ public class J01006 {
             int n =  sc.nextInt();
             System.out.println(fib[n]);
         }
+        sc.close();
     }
 }
