@@ -14,6 +14,7 @@ public class J01005 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
 
