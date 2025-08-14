@@ -24,5 +24,6 @@ public class J01007 {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
