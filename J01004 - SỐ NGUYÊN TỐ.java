@@ -23,5 +23,6 @@ public class J01004 {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
