@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/BT/BT.iml" filepath="$PROJECT_DIR$/Codeptit/BT/BT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/BTtrenlop/BTtrenlop.iml" filepath="$PROJECT_DIR$/Codeptit/BTtrenlop/BTtrenlop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTtrenlop2110/BTtrenlop2110.iml" filepath="$PROJECT_DIR$/BTtrenlop2110/BTtrenlop2110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CHELLO/CHELLO.iml" filepath="$PROJECT_DIR$/CHELLO/CHELLO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/Codeptit.iml" filepath="$PROJECT_DIR$/Codeptit/Codeptit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HELLOFILE/HELLOFILE.iml" filepath="$PROJECT_DIR$/HELLOFILE/HELLOFILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J01001 - HINH CHU NHAT/J01001 - HINH CHU NHAT.iml" filepath="$PROJECT_DIR$/J01001 - HINH CHU NHAT/J01001 - HINH CHU NHAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J01002 - TINH TONG N SO NGUYEN DUONG DAU TIEN/J01002 - TINH TONG N SO NGUYEN DUONG DAU TIEN.iml" filepath="$PROJECT_DIR$/J01002 - TINH TONG N SO NGUYEN DUONG DAU TIEN/J01002 - TINH TONG N SO NGUYEN DUONG DAU TIEN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/LT3009/LT3009.iml" filepath="$PROJECT_DIR$/Codeptit/LT3009/LT3009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/TH/TH.iml" filepath="$PROJECT_DIR$/Codeptit/TH/TH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1910/TH1910.iml" filepath="$PROJECT_DIR$/TH1910/TH1910.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/TH2/TH2.iml" filepath="$PROJECT_DIR$/Codeptit/TH2/TH2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/TH210925/TH210925.iml" filepath="$PROJECT_DIR$/Codeptit/TH210925/TH210925.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/THb/THb.iml" filepath="$PROJECT_DIR$/Codeptit/THb/THb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeptit/BT/baiC/baiC.iml" filepath="$PROJECT_DIR$/Codeptit/BT/baiC/baiC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
