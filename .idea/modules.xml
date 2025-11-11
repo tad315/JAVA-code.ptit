@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codeptit/BT/BT.iml" filepath="$PROJECT_DIR$/Codeptit/BT/BT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT1111/BT1111.iml" filepath="$PROJECT_DIR$/BT1111/BT1111.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codeptit/BTtrenlop/BTtrenlop.iml" filepath="$PROJECT_DIR$/Codeptit/BTtrenlop/BTtrenlop.iml" />
       <module fileurl="file://$PROJECT_DIR$/BTtrenlop2110/BTtrenlop2110.iml" filepath="$PROJECT_DIR$/BTtrenlop2110/BTtrenlop2110.iml" />
       <module fileurl="file://$PROJECT_DIR$/CHELLO/CHELLO.iml" filepath="$PROJECT_DIR$/CHELLO/CHELLO.iml" />
