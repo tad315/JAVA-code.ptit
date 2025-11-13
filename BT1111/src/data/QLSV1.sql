@@ -9,5 +9,5 @@ CREATE TABLE SinhVien (
     Lop VARCHAR(50),
     GPA DOUBLE
 );
-select * FROM SinhVien;
+
 
